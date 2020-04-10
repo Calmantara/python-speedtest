@@ -7,7 +7,7 @@ bit_to_megabyte = 1048576  # to convert bit into mega byte
 schedule_time = 0.1  # schedule time in minutes
 #seoul, bandung, jakarta, bangkok, singapore, china
 # ,[7580], [23158], [17760], [2054], [3633], [10567]]
-servers_list = [[6527], [2054]]
+servers_list = [[6527], [2054]]  # config the server
 
 
 def test(servers: list):
