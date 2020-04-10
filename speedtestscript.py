@@ -24,7 +24,6 @@ def test(servers: list):
 
 
 # This is comment for empty list
-first_run_list = []
 
 
 def get_data():
