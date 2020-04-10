@@ -23,6 +23,7 @@ def test(servers: list):
     return res["download"], res["upload"], res["ping"], res["server"]["country"], st
 
 
+# This is comment for empty list
 first_run_list = []
 
 
